@@ -1,0 +1,17 @@
+caldav==1.4.0
+certifi==2024.12.14
+charset-normalizer==3.4.1
+click==8.1.8
+icalendar==6.1.1
+idna==3.10
+lxml==5.3.0
+python-dateutil==2.9.0.post0
+pytz==2024.2
+PyYAML==6.0.2
+recurring-ical-events==3.4.1
+requests==2.32.3
+six==1.17.0
+tzdata==2025.1
+urllib3==2.3.0
+vobject==0.9.9
+x-wr-timezone==2.0.0
